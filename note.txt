@@ -1,0 +1,9 @@
+mint = 22p9mLsGFr48tZrtZcuZqQF3BM4t4PoTMmWAPuCJkCpZ
+
+wallet1= AeYYf4CLM5146G4CSzi1aEPr4BCbUWpd2V8qzXLyB8NF 
+ata-wallet = EFBrJnfcVijB3fLa9bq3kaGhGoAinLRpBrwWzKvHZHEc
+
+
+wallet2= Fi8EEPihq7jXYkWnhmhadBJwWBdRZ8un6PVmiDVHaxHc
+ata-wallet2= Fi8EEPihq7jXYkWnhmhadBJwWBdRZ8un6PVmiDVHaxHc
+

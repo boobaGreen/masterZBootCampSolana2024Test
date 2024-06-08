@@ -1,0 +1,23 @@
+{
+  "name": "masterz-basics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "keygen": "ts-node ./src/keygen.ts",
+    "airdrop": "ts-node ./src/airdrop.ts",
+    "createMint": "ts-node ./src/spl_init.ts",
+    "mintToken": "ts-node ./src/spl_mint.ts",
+    "transferToken": "ts-node ./src/spl_transfer.ts"
+  },
+  "dependencies": {
+    "@solana/spl-token": "^0.4.6",
+    "@solana/web3.js": "^1.91.7",
+    "@types/node": "^20.12.7",
+    "bs58": "^5.0.0",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
