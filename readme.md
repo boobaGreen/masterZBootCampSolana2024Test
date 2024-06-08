@@ -83,25 +83,25 @@ tranferToken
 
 <details closed><summary>.</summary>
 
-| File                                                                                                           | Summary                                       |
-| -------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| [wallet.json](https://github.com/boobaGreen/masterZBootCampSolana2024Test/blob/master/wallet.json)             | HTTP error 401 for prompt `wallet.json`       |
-| [tsconfig.json](https://github.com/boobaGreen/masterZBootCampSolana2024Test/blob/master/tsconfig.json)         | HTTP error 401 for prompt `tsconfig.json`     |
-| [note.txt](https://github.com/boobaGreen/masterZBootCampSolana2024Test/blob/master/note.txt)                   | HTTP error 401 for prompt `note.txt`          |
-| [package.json](https://github.com/boobaGreen/masterZBootCampSolana2024Test/blob/master/package.json)           | HTTP error 401 for prompt `package.json`      |
-| [package-lock.json](https://github.com/boobaGreen/masterZBootCampSolana2024Test/blob/master/package-lock.json) | HTTP error 401 for prompt `package-lock.json` |
+| File                                                                                                           | Summary                                   |
+| -------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| [wallet.json](https://github.com/boobaGreen/masterZBootCampSolana2024Test/blob/master/wallet.json)             | privatekey only for test de and exapmplre |
+| [tsconfig.json](https://github.com/boobaGreen/masterZBootCampSolana2024Test/blob/master/tsconfig.json)         | config x ts                               |
+| [note.txt](https://github.com/boobaGreen/masterZBootCampSolana2024Test/blob/master/note.txt)                   | note                                      |
+| [package.json](https://github.com/boobaGreen/masterZBootCampSolana2024Test/blob/master/package.json)           | package.json                              |
+| [package-lock.json](https://github.com/boobaGreen/masterZBootCampSolana2024Test/blob/master/package-lock.json) | lock                                      |
 
 </details>
 
 <details closed><summary>src</summary>
 
-| File                                                                                                           | Summary                                         |
-| -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| [keygen.ts](https://github.com/boobaGreen/masterZBootCampSolana2024Test/blob/master/src/keygen.ts)             | HTTP error 401 for prompt `src/keygen.ts`       |
-| [airdrop.ts](https://github.com/boobaGreen/masterZBootCampSolana2024Test/blob/master/src/airdrop.ts)           | HTTP error 401 for prompt `src/airdrop.ts`      |
-| [spl_transfer.ts](https://github.com/boobaGreen/masterZBootCampSolana2024Test/blob/master/src/spl_transfer.ts) | HTTP error 401 for prompt `src/spl_transfer.ts` |
-| [spl_mint.ts](https://github.com/boobaGreen/masterZBootCampSolana2024Test/blob/master/src/spl_mint.ts)         | HTTP error 401 for prompt `src/spl_mint.ts`     |
-| [spl_init.ts](https://github.com/boobaGreen/masterZBootCampSolana2024Test/blob/master/src/spl_init.ts)         | HTTP error 401 for prompt `src/spl_init.ts`     |
+| File                                                                                                           | Summary               |
+| -------------------------------------------------------------------------------------------------------------- | --------------------- |
+| [keygen.ts](https://github.com/boobaGreen/masterZBootCampSolana2024Test/blob/master/src/keygen.ts)             | `src/keygen.ts`       |
+| [airdrop.ts](https://github.com/boobaGreen/masterZBootCampSolana2024Test/blob/master/src/airdrop.ts)           | `src/airdrop.ts`      |
+| [spl_transfer.ts](https://github.com/boobaGreen/masterZBootCampSolana2024Test/blob/master/src/spl_transfer.ts) | `src/spl_transfer.ts` |
+| [spl_mint.ts](https://github.com/boobaGreen/masterZBootCampSolana2024Test/blob/master/src/spl_mint.ts)         | `src/spl_mint.ts`     |
+| [spl_init.ts](https://github.com/boobaGreen/masterZBootCampSolana2024Test/blob/master/src/spl_init.ts)         | `src/spl_init.ts`     |
 
 </details>
 
