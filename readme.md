@@ -2,7 +2,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" width="100" />
 </p>
 <p align="center">
-    <h1 align="center">MASTERZBOOTCAMPSOLANA2024TEST</h1>
+    <h1 align="center">MASTERZ-BOOTCAMP-SOLANA-2024-TEST</h1>
 </p>
 <p align="center">
     <em>HTTP error 401 for prompt `slogan`</em>
